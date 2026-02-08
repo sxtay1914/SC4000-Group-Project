@@ -1,0 +1,11 @@
+case_id,date_decision,MONTH,WEEK_NUM,applprev_count,applprev_total_credit_amount,applprev_avg_credit_amount,applprev_max_credit_amount,applprev_total_annuity,applprev_avg_annuity,cb_num_records,cb_total_overdue_amount,cb_max_overdue_amount,cb_avg_overdue_amount,cb_total_outstanding,cb_max_outstanding,cb_max_dpd,cb_avg_dpd,person_childnum_185L,person_empl_employedtotal_800L,person_empl_industry_691L,person_mainoccupationinc_384A,person_num_group1,person_personindex_1023L,person_persontype_1072L,person_persontype_792L,person_empls_employedfrom_796D,person_num_group2,person_birth_259D,person_birthdate_87D,person_contaddr_district_15M,tax_amount_4527230A,tax_amount_4917619A,applprev_cb_count_ratio,credit_to_outstanding_ratio
+0,3,202201,100,10.0,368253.0,36825.3,104299.0,30732.4008,3073.24008,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,34500.0,0.0,0.0,1.0,1.0,,,3,1,1,,24867.0,0.9090909090909091,368253.0
+1,5,202201,100,10.0,187718.6,18771.86,60000.0,18811.8001,1881.18001,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,49800.0,0.0,0.0,1.0,1.0,,,1,1,5,,,0.9090909090909091,187718.6
+2,0,202201,100,,,,,,,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,59600.0,0.0,0.0,1.0,1.0,,,4,1,2,,3585.0,,
+3,0,202201,100,,,,,,,,,,,,,,,,,,75300.0,0.0,0.0,1.0,1.0,,,0,1,3,,,,
+4,4,202201,100,,,,,,,0.0,0.0,,,0.0,,,,0.0,,,,0.0,0.0,1.0,1.0,,,5,0,5,,,,
+5,2,202201,100,,,,,,,0.0,0.0,,,0.0,,,,,,,60000.0,0.0,0.0,1.0,1.0,,,2,1,4,,,,
+6,8,202201,100,,,,,,,0.0,0.0,,,0.0,,,,,,,,,,,,,,5,1,0,,,,
+7,7,202201,100,,,,,,,0.0,0.0,,,0.0,,,,,,,,,,,,,,5,1,0,,,,
+8,6,202201,100,,,,,,,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,,,,,5,1,0,,,,
+9,1,202201,100,,,,,,,,,,,,,,,,,,,,,,,,,5,1,0,,,,

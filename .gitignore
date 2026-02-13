@@ -1,2 +1,6 @@
 home_credit_data/
 *.zip
+*.csv
+test/
+__pycache__/
+.DS_Store
